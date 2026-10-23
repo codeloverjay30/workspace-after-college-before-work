@@ -6,3 +6,9 @@ node_modules/
 
 # Gradle caches
 .gradle/
+
+# Temporary compressed archives
+*.7z.tmp
+
+# Eclipse workspace metadata
+.metadata/
