@@ -1,0 +1,8 @@
+# Compressed archives
+*.7z
+
+# Node.js dependencies
+node_modules/
+
+# Gradle caches
+.gradle/
