@@ -12,3 +12,7 @@ node_modules/
 
 # Eclipse workspace metadata
 .metadata/
+
+# Sensitive credentials
+**/*-firebase-adminsdk-*.json
+**/attachment/token/
