@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MultiScreensDemo</string>
+    <string name="screen01">Screen 01</string>
+    <string name="screen02">Screen 02</string>
+    <string name="screen03">Screen 03</string>
+    <string name="back_button">Back</string>
+    <string name="uid">User ID</string>
+    <string name="next_button">Next</string>
+    <string name="age">Age</string>
+    <string name="home_button">Home</string>
+    <string name="uid_blank">User ID is blank!</string>
+    <string name="age_blank">Age is blank!</string>
+</resources>

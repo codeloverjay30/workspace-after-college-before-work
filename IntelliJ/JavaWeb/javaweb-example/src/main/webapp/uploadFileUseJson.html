@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+</head>
+<body>
+	<h1>uploadFileUseJson.html</h1>
+	<h2>UploadFileUseJsonServlet會負責處理上傳的檔案</h2>
+	<input type="file" id="img">
+	<br>
+	<button>Upload</button>
+</body>
+<script>
+	const img = document.querySelector("#img");
+	document.querySelector('button').addEventListener('click', () => {
+		const fileReader = new FileReader();
+		fileReader.addEventListener('load', event => {
+			const base64Str = btoa(event.target.result);
+			fetch('uploadFileUseJson', {
+				method: 'POST',
+				headers: { 'Content-Type': 'application/json' },
+				body: JSON.stringify({
+					imgBase64Str: base64Str
+				})
+			});
+		});
+		fileReader.readAsBinaryString(img.files[0]);
+	});
+</script>
+</html>

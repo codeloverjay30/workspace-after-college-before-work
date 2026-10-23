@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TabsDemo</string>
+    <string name="book_list">Books</string>
+    <string name="book_detail">Detail</string>
+    <string name="back_button">Back</string>
+    <string name="book_name">Book name</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="home">Home</string>
+    <string name="about">About</string>
+    <string name="settings">Settings</string>
+</resources>

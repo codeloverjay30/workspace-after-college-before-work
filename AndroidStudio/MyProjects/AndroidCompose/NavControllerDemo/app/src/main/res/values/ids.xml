@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="wtf_frame" type="id">WTFFrame</item>
+    <item name="what_frame" type="id">WhatFrame</item>
+</resources>

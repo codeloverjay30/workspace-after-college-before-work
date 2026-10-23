@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "118581933654",
+    "project_id": "fcmhealthyhelperserver",
+    "storage_bucket": "fcmhealthyhelperserver.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118581933654:android:2624f73f5007260c68adf7",
+        "android_client_info": {
+          "package_name": "com.ron.fcmdemo_android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8ZVmFDciL_CBbenWVxOemLJe6b0ifZQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

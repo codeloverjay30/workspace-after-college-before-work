@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DragAndDropSourceDemo1</string>
+    <string name="detect_pressed">Detect Pressed</string>
+</resources>

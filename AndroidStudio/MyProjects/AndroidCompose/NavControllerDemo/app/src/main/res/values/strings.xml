@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavControllerDemo</string>
+    <string name="wtf_frame">WTF Frame</string>
+    <string name="what_frame">WhatFrame</string>
+</resources>

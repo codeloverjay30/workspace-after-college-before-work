@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BalloonDemo1</string>
+    <string name="balloon_content_text">Now you can edit your profile!</string>
+    <string name="balloon_window_button">showAlignTop</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DrawingViewDemo1</string>
+    <string name="ontocuhlistener_called">android.View.onTouchListener was called.</string>
+    <string name="onstrokesfinished_called">onStrokesFinished was called.</string>
+</resources>

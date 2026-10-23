@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StreetViewDemo</string>
+    <string name="location_name_Address">Location name or address</string>
+    <string name="street_view">Street View</string>
+</resources>

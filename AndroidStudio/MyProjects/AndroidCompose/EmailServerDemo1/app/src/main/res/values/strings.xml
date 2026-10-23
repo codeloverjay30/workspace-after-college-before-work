@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EmailServerDemo1</string>
+    <string name="send_email">Send Email</string>
+    <string name="sendto_labal">Send To</string>
+    <string name="email_subject_title">Email subject</string>
+    <string name="email_body_title">Email body</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomLayoutsDemo</string>
+    <string name="h1">heading 1</string>
+    <string name="h2">heading 2</string>
+</resources>

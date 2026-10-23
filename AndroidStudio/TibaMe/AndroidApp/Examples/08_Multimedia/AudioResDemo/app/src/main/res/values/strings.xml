@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AudioResDemo</string>
+    <string name="play_sound">Play Sound</string>
+    <string name="stop_sound">Stop Sound</string>
+    <string name="play_music">Play Music</string>
+    <string name="stop_music">Stop Music</string>
+    <string name="pause_music">Pause Music</string>
+    <string name="lower">Lower</string>
+    <string name="mute">Mute</string>
+    <string name="raise">Raise</string>
+</resources>

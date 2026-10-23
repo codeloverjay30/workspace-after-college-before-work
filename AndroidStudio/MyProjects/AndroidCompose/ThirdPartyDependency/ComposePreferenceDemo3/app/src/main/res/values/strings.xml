@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ComposePreferenceDemo3</string>
+    <string name="wifi_toggle_button_key">wifi</string>
+    <string name="wifi_title">Wifi</string>
+    <string name="connections_topappbar_title">Connections</string>
+    <string name="main_frame">Main Frame</string>
+    <string name="main_frame_topappbar_title">Main Frame</string>
+    <string name="volume_topappbar_title">Volume</string>
+    <string name="connections_setting_page_key">connection_setting_page</string>
+    <string name="sounds_and_vibration_topappbar_title">Sounds and vibration</string>
+    <string name="call_vibration_topappbar_title">Call vibration</string>
+    <string name="silent_vibration">Silent</string>
+    <string name="short_vibration">Short</string>
+    <string name="meduim_vibration">Medium</string>
+    <string name="ringtone_topappbar_title">Ringtone</string>
+    <string name="mood_question">Your current mood is?</string>
+    <string name="sim_topappbar_title">SIM</string>
+    <string name="app_topappbar_title">App</string>
+    <string name="footer_summary">This is a footer.</string>
+    <string name="account_list_topappbar_title">Account list</string>
+    <string name="account_topappbar_title">Account</string>
+    <string name="account_name">Account Name</string>
+    <string name="password">Password</string>
+    <string name="change_password_label">New password is:</string>
+    <string name="change_password_title">Change password:</string>
+    <string name="need_enter_password_for_sign_in">Need enter password for sign in?</string>
+    <string name="email_title">Email</string>
+    <string name="second_target">Second target</string>
+    <string name="change_email">Change Email</string>
+    <string name="change_email_title">Change email:</string>
+    <string name="change_email_label">New email:</string>
+</resources>

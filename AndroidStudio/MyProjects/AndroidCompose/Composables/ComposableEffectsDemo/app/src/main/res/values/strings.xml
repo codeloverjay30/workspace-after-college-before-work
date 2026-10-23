@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ComposableEffectsDemo</string>
+    <string name="launched_effect_demo_screen">A screen that demo use of LaunchedEffect</string>
+    <string name="disposable_effect_demo_screen">A screen that demo use of DisposableEffect</string>
+    <string name="side_effect">A screen that demo use of SideEffect</string>
+    <string name="increment">Increment</string>
+    <string name="go_to_disposable_effect_demo_screen">go to DisposableEffectDemoScreen</string>
+    <string name="go_to_side_effect_demo_screen">go to SideEffectDemoScreen</string>
+    <string name="go_to_launched_effect_demo_screen">go to LaunchedEffectDemoScreen</string>
+    <string name="change_title_and_message">Change title and message</string>
+    <string name="reset">reset</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomSheetDemo</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="payment_successful">Payment successful</string>
+    <string name="pay">Pay</string>
+    <string name="cancel">Cancel</string>
+    <string name="pay_credit_card">Pay by credit card</string>
+</resources>

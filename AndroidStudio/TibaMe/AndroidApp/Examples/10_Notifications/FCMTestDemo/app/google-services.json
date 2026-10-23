@@ -1,0 +1,171 @@
+{
+  "project_info": {
+    "project_number": "487439852922",
+    "project_id": "fir-android-kotlin-a2608",
+    "storage_bucket": "fir-android-kotlin-a2608.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487439852922:android:4579a76fec3fe7280522c3",
+        "android_client_info": {
+          "package_name": "com.ron.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487439852922-9v5tqnn3mjsg44qu0b7miml6q3dhn9t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCrljkGJQE67w38YGCuPWaTczqfWaPzkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487439852922-0ctmr7els09coiuvheacvk9gctrevkhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487439852922:android:912ef5fb852234710522c3",
+        "android_client_info": {
+          "package_name": "com.ron.fcmtestdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487439852922-9v5tqnn3mjsg44qu0b7miml6q3dhn9t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCrljkGJQE67w38YGCuPWaTczqfWaPzkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487439852922-0ctmr7els09coiuvheacvk9gctrevkhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487439852922:android:ca1284dfb12e995e0522c3",
+        "android_client_info": {
+          "package_name": "com.ron.googleauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487439852922-ot3kf3jciearpur6mtsl0kod3i24mu2o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ron.googleauthdemo",
+            "certificate_hash": "9b7567d73a20ebd6735f9d3fda517c3021a45f1b"
+          }
+        },
+        {
+          "client_id": "487439852922-9v5tqnn3mjsg44qu0b7miml6q3dhn9t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCrljkGJQE67w38YGCuPWaTczqfWaPzkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487439852922-0ctmr7els09coiuvheacvk9gctrevkhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487439852922:android:47b57a8a9bf18a7c0522c3",
+        "android_client_info": {
+          "package_name": "com.ron.passwordauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487439852922-9v5tqnn3mjsg44qu0b7miml6q3dhn9t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCrljkGJQE67w38YGCuPWaTczqfWaPzkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487439852922-0ctmr7els09coiuvheacvk9gctrevkhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487439852922:android:f4f0fcb745e42b350522c3",
+        "android_client_info": {
+          "package_name": "com.ron.phoneauthdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487439852922-2f3sp3pb0b5q9ukf1cjurup05ligcbfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ron.phoneauthdemo",
+            "certificate_hash": "9b7567d73a20ebd6735f9d3fda517c3021a45f1b"
+          }
+        },
+        {
+          "client_id": "487439852922-9v5tqnn3mjsg44qu0b7miml6q3dhn9t4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCrljkGJQE67w38YGCuPWaTczqfWaPzkY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487439852922-0ctmr7els09coiuvheacvk9gctrevkhi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

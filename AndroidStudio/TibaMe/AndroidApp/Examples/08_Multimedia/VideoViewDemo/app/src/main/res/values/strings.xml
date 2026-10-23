@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VideoViewDemo</string>
+    <string name="video_finished_playing">The video has finished playing.</string>
+</resources>

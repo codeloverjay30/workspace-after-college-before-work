@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConstraintLayoutDemo</string>
+    <string name="constraint_layout_demo_frame">ConstraintLayoutDemoFrame</string>
+    <string name="decoupled_constraint_layout_demo_frame">DecoupledConstraintLayoutDemoFrame</string>
+    <string name="main_frame">MainFrame</string>
+    <string name="constraint_layout_guidelines_demo_frame">ConstraintLayoutGuidelinesDemoFrame</string>
+</resources>

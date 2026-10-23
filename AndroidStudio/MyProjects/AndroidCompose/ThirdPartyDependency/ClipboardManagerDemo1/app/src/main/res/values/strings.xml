@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ClipboardManagerDemo1</string>
+    <string name="copy_button_clicked">Copy button was clicked.</string>
+    <string name="paste_button_clicked">Paste</string>
+</resources>

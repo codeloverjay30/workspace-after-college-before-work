@@ -1,0 +1,10 @@
+apply plugin: 'org.jetbrains.kotlin.jvm'
+
+dependencies {
+  testImplementation projects.retrofit
+  testImplementation projects.retrofit.testHelpers
+  testImplementation libs.junit
+  testImplementation libs.truth
+  testImplementation libs.okhttp.mockwebserver
+  testImplementation libs.kotlinx.coroutines
+}

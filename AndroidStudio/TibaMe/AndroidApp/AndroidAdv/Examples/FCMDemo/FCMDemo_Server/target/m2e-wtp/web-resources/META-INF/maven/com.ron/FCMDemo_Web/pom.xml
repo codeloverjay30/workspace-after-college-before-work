@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<!-- 組織名稱，習慣上將domain name顛倒 -->
+	<groupId>com.ron</groupId>
+	<!-- 此專案名稱 -->
+	<artifactId>FCMDemo_Web</artifactId>
+	<!-- 此專案版本 -->
+	<version>0.0.1-SNAPSHOT</version>
+	<!-- 打包類型 -->
+	<packaging>war</packaging>
+
+	<!-- 專案相關描述資訊 -->
+	<name>FCMDemo_Web Maven Webapp</name>
+	<!-- 專案相關網站 -->
+	<url>http://www.example.com</url>
+
+	<!-- 設定屬性 -->
+	<properties>
+		<!-- 專案原始碼的編碼方式 -->
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	</properties>
+
+	<!-- 設定欲引用的所有函式庫 -->
+	<dependencies>
+		<dependency>
+			<groupId>javax.servlet</groupId>
+			<artifactId>javax.servlet-api</artifactId>
+			<version>4.0.1</version>
+			<scope>provided</scope>
+		</dependency>
+		<dependency>
+			<groupId>com.google.firebase</groupId>
+			<artifactId>firebase-admin</artifactId>
+			<version>9.3.0</version>
+		</dependency>
+		<dependency>
+			<groupId>junit</groupId>
+			<artifactId>junit</artifactId>
+			<version>4.11</version>
+			<scope>test</scope>
+		</dependency>
+	</dependencies>
+
+	<build>
+		<!-- 專案打包名稱 -->
+		<finalName>FCMDemo_Web</finalName>
+		<pluginManagement><!-- lock down plugins versions to avoid using Maven 
+				defaults (may be moved to parent pom) -->
+			<plugins>
+				<!-- plugin一般會搭配<configuration>做進一步設定，缺少<configuration>代表採用預設值 -->
+				<plugin>
+					<!-- 清除之前build code時產生的目錄與檔案 -->
+					<artifactId>maven-clean-plugin</artifactId>
+					<version>3.1.0</version>
+				</plugin>
+				<!-- see http://maven.apache.org/ref/current/maven-core/default-bindings.html#Plugin_bindings_for_war_packaging -->
+				<plugin>
+					<!-- 處理專案資源並複製到輸出目錄 -->
+					<artifactId>maven-resources-plugin</artifactId>
+					<version>3.0.2</version>
+				</plugin>
+				<plugin>
+					<!-- 設定Java編譯器，上面properties已經設定過了，所以這邊只要宣告一下即可 -->
+					<artifactId>maven-compiler-plugin</artifactId>
+					<version>3.8.0</version>
+				</plugin>
+				<plugin>
+					<!-- 設定測試參數，可搭配JUnit使用 -->
+					<artifactId>maven-surefire-plugin</artifactId>
+					<version>2.22.1</version>
+				</plugin>
+				<plugin>
+					<!-- 打包設定 -->
+					<artifactId>maven-war-plugin</artifactId>
+					<version>3.2.2</version>
+				</plugin>
+				<plugin>
+					<!-- 設定第三方包的安裝方式 -->
+					<artifactId>maven-install-plugin</artifactId>
+					<version>2.5.2</version>
+				</plugin>
+				<plugin>
+					<!-- 設定將你的專案部署到遠端伺服器，分享給其他開發者使用 -->
+					<artifactId>maven-deploy-plugin</artifactId>
+					<version>2.8.2</version>
+				</plugin>
+			</plugins>
+		</pluginManagement>
+	</build>
+</project>

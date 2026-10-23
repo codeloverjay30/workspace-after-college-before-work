@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DirectDemo</string>
+    <string name="starting_point">Starting point</string>
+    <string name="end_point">End point</string>
+    <string name="direct">Direct</string>
+    <string name="multiple_direct">Multiple Direct</string>
+</resources>

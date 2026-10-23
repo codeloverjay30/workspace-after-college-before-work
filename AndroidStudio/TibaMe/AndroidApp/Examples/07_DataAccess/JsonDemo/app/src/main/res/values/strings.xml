@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JsonDemo</string>
+    <string name="object_to_json">Object to JSON</string>
+    <string name="list_to_json">List to JSON</string>
+    <string name="multiple_type">Multiple Types</string>
+    <string name="object_list_to_json">Object List to JSON</string>
+</resources>

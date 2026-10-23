@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	<!-- 此<form>可以傳遞請求參數給下一頁的Servlet -->
+	<!-- 注意有底色部分，與下頁對應 -->
+	<form action="processRequestParameter" method="POST">
+	    <div>
+	        <label>name: </label><!-- ↓ 請求參數的名稱 -->
+	        <input type="text" name="name">
+	    </div>
+	    <div>
+	        <label>age: </label>   <!-- ↓ 請求參數的名稱 -->
+	        <input type="number" name="age">
+	    </div>
+	    <div>
+	        <label>skills: </label>   <!-- ↓ 請求參數的名稱 -->
+	        <input type="checkbox" name="skills" value="Java">Java
+	        <input type="checkbox" name="skills" value="javaScript">JavaScript
+	        <input type="checkbox" name="skills" value="SQL">SQL
+	    </div>
+	    <input type="submit">
+	</form>
+	
+</body>
+</html>

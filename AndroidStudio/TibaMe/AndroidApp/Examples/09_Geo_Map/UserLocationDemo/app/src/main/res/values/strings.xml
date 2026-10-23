@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UserLocationDemo</string>
+    <string name="My_Location">My Location</string>
+    <string name="request_permission">Request permission</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="permission_granted">Camera permission Granted</string>
+    <string name="request_permission_text">Access location permission required for this feature to be available. Please grant the permission!</string>
+    <string name="open_settings_text">Or you can go to the permissions page to grant access location permission!</string>
+</resources>

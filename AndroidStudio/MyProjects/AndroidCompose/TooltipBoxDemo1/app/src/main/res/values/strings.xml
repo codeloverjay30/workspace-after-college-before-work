@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TooltipBoxDemo1</string>
+    <string name="tooltip_box_ondismiss_event_called">onDimiss event of TooltipBox was called.</string>
+    <string name="tooltip_box_ondispose_event_called">onDispose event of TooltipBox was called.</string>
+    <string name="tooltip_box_show_function_called">show function of TooltipBox was called.</string>
+    <string name="text1">text1</string>
+    <string name="should_show_tooltip_box">Should show Tooltipbox</string>
+</resources>

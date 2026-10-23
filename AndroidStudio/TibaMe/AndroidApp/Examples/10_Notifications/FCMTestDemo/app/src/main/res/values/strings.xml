@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FCMTestDemo</string>
+    <string name="textGetToken">取得裝置Token</string>
+    <string name="textTitle">訊息標題</string>
+    <string name="textBody">訊息內容</string>
+    <string name="textData">自訂資料</string>
+    <string name="textClear">清除</string>
+    <string name="textRegistrationToken">顯示裝置Token</string>
+    <string name="default_notification_channel_id">default_channel_id</string>
+    <string name="default_notification_channel_name">default_channel_name</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Exer8_01</string>
+    <string name="request_permission">Request permission</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="permission_granted">Camera permission Granted</string>
+    <string name="request_permission_text">Camera permission required for this feature to be available. Please grant the permission!</string>
+    <string name="open_settings_text">Or you can go to the permissions page to grant camera permission!</string>
+    <string name="image_capture">Image Capture</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="cancel">Cancel</string>
+    <string name="accept">Accept</string>
+    <string name="reject">Reject</string>
+</resources>

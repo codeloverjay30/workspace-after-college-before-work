@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AssetsDemo</string>
+    <string name="open_file">Open File</string>
+    <string name="clear">Clear</string>
+</resources>

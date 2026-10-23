@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FCMDemo_Android</string>
+    <string name="send_single_fcm">FCM 單發</string>
+    <string name="send_group_fcm">FCM 群發</string>
+    <string name="get_token">取得裝置 Token</string>
+    <string name="title">訊息標題</string>
+    <string name="body">訊息內容</string>
+    <string name="data">自訂資料</string>
+    <string name="textRegistrationToken">顯示裝置 Token</string>
+    <string name="default_notification_channel_id">default_channel_id</string>
+    <string name="default_notification_channel_name">default_channel_name</string>
+    <string name="subscribe_health">訂閱「健康主題」</string>
+    <string name="subscribed">完成訂閱</string>
+    <string name="send_subscriber">發 FCM 給訂閱者</string>
+    <string name="clear">清除</string>
+</resources>

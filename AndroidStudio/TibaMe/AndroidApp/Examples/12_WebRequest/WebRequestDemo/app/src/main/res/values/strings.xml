@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebRequestDemo</string>
+    <string name="remote_text">Remote Text</string>
+    <string name="remote_image">Remote Image</string>
+</resources>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>Insert title here</title>
+  </head>
+  <body>
+    <h1>downloadFileUseJson.html</h1>
+    <h2>
+      按下按鈕，就可以接收來自JsonWithFileServlet的檔案，此檔案用JSON格式傳遞
+    </h2>
+    <button onclick="downloadFile()">接收</button>
+    <script>
+      function downloadFile() {
+        fetch("downloadFileUseJson")
+          .then((resp) => resp.json())
+          .then((body) => {
+            const { username, imgBase64Str } = body;
+            // 解碼Base64字串
+            const bytesStr = atob(imgBase64Str);
+            let len = bytesStr.length;
+            const u8Array = new Uint8Array(len);
+            while (len--) {
+              u8Array[len] = bytesStr.charCodeAt(len);
+            }
+            const blob = new Blob([u8Array]);
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement("a");
+            a.href = url;
+            a.download = username + ".jpg";
+            document.body.append(a);
+            a.click();
+            a.remove();
+            window.URL.revokeObjectURL(url);
+          });
+      }
+    </script>
+  </body>
+</html>

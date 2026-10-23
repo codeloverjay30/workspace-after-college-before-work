@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error">
+        Error
+    </string>
+    <string name="not_valid_date_or_time_or_string">
+        You select either Not a valid date, NOT a valid time, or a valid diet diary name. Please reenter it
+    </string>
+
+    <string name="name">
+        name
+    </string>
+    <string name="value">
+        value
+    </string>
+
+    <string name="confirm">
+        confirm
+    </string>
+    <string name="dismiss">
+        dismiss
+    </string>
+    <string name="ok">
+        ok
+    </string>
+    <string name="cancel">
+        cancel
+    </string>
+
+    <string name="forwhat">
+        for
+    </string>
+
+    <string name="date">
+        date
+    </string>
+    <string name="time">
+        time
+    </string>
+
+    <string name="earliest">
+        earliest
+    </string>
+
+    <string name="latest">
+        latest
+    </string>
+
+    <string name="add">
+        add
+    </string>
+    <string name="select">
+        select
+    </string>
+    <string name="open">
+        open
+    </string>
+    <string name="save">
+        save
+    </string>
+    <string name="search">
+        search
+    </string>
+    <string name="sort">
+        sort
+    </string>
+
+    <string name="date_picker">
+        date picker
+    </string>
+    <string name="time_picker">
+        time picker
+    </string>
+
+    <string name="dialog">
+        dialog
+    </string>
+
+    <string name="diet">
+        diet
+    </string>
+
+    <string name="diary">
+        diary
+    </string>
+
+    <string name="plan">
+        plan
+    </string>
+
+    <string name="food">
+        food
+    </string>
+    <string name="meal">
+        meal
+    </string>
+    <string name="and">and</string>
+    <string name="not">not</string>
+    <string name="or">or</string>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TextDemo</string>
+    <string name="normal_string">This is a normal string.</string>
+    <string name="green_string">This is a Green string</string>
+    <string name="font_size_20_sp_string">This is a string with font size 20 sp.</string>
+    <string name="font_style_italic_string">This is a string with font style Italic.</string>
+    <string name="no_soft_wrap_string">This is a string without soft wrapping.</string>
+    <string name="align_center_string">This is a string that is aligned centrically.</string>
+    <string name="underlined_string">This is an underlined string</string>
+    <string name="letter_spacing_10_sp_string">This is a string with letter spacing 10 sp.</string>
+    <string name="line_height_10_sp_string">This is a string with line height 10 sp.</string>
+    <string name="text_overflow_clip_string">This is a string that may be clipped iff it is out of size.</string>
+    <string name="text_overflow_visible_string">This is a string that will NOT be clipped and is visible when it is out of size.</string>
+    <string name="text_overflow_ellipsis_string">This is a string that will be ellipsised (text which is out of range will be hidden).</string>
+    <string name="min_2_lines_string">This is a string that has at least 2 lines.</string>
+    <string name="min_2_lines_and_max_3_lines_string">This is a string that \nhas at least 2 lines \nand at most 3 lines.\nWhen there are 4 lines. \nThe 4th lines will be ellipised.</string>
+</resources>

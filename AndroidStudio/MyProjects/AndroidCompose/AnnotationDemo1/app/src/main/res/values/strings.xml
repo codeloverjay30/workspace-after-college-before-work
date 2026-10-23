@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnnotationDemo1</string>
+    <string name="increase_button1">increase button1</string>
+    <string name="increase_button2">increase button2</string>
+    <string name="button1">Button1</string>
+    <string name="button2">Button2</string>
+</resources>

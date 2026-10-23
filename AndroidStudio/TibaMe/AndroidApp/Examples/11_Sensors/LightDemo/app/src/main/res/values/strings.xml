@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LightDemo</string>
+    <string name="txtSleep">可以睡覺</string>
+    <string name="txtWalk">可以散步</string>
+    <string name="txtWatchTV">可以看電視</string>
+    <string name="txtDailyLife">可以日常活動</string>
+    <string name="txtRead">可以閱讀</string>
+    <string name="txtSurgery">亮度已經符合手術室的需求</string>
+    <string name="txtAnyThing">明亮到可以做任何事情</string>
+</resources>

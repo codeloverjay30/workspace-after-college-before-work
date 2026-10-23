@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LocalUriHandlerDemo1</string>
+    <string name="open_an_uri">Open an Uri</string>
+</resources>

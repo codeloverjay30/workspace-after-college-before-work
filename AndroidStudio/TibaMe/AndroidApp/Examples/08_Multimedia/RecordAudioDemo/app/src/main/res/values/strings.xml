@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RecordAudioDemo</string>
+    <string name="Record">Record</string>
+    <string name="stop_record">Stop Record</string>
+    <string name="play">Play</string>
+    <string name="stop_play">Stop Play</string>
+    <string name="request_permission">Request permission</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="permission_granted">Camera permission Granted</string>
+    <string name="request_permission_text">Record Audio permission required for this feature to be available. Please grant the permission!</string>
+    <string name="open_settings_text">Or you can go to the permissions page to grant Record Audio permission!</string>
+</resources>

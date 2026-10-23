@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DragAndDropSourceDemo2</string>
+    <string name="ondrop_event_was_called">onDrop event was called.</string>
+</resources>

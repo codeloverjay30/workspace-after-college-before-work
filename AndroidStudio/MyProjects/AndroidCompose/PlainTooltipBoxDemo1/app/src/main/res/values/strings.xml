@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PlainTooltipBoxDemo1</string>
+    <string name="text1">text1</string>
+    <string name="should_show_plain_tooltip_box">Should show plain tooltip box</string>
+</resources>

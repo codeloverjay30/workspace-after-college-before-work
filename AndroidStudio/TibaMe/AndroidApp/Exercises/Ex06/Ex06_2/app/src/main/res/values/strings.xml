@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Ex06_2</string>
+    <string name="book_list">Books</string>
+    <string name="book_detail">Detail</string>
+    <string name="help">Help</string>
+    <string name="back_button">Back</string>
+    <string name="book_name">Book name</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="isbn_format">ISBN: %s</string>
+    <string name="bookname_format">Book name: %s</string>
+    <string name="price_format">Price: %.1f</string>
+</resources>

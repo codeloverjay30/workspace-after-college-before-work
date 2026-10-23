@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+task wrapper(type: Wrapper){
+  gradleVersion = '7.2'
+}
+
+android {
+  compileSdkVersion versions.compileSdk
+
+  buildFeatures {
+    buildConfig = true
+    viewBinding = true
+  }
+
+  defaultConfig {
+    applicationId 'com.example.timber'
+    minSdkVersion versions.minSdk
+    targetSdkVersion versions.compileSdk
+    versionCode 1
+    versionName '1.0.0'
+  }
+
+  lintOptions {
+    textReport true
+    textOutput 'stdout'
+    ignore 'InvalidPackage'
+  }
+}
+
+dependencies {
+  implementation project(':timber')
+}

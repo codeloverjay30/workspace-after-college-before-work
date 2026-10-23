@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppWidgetDemo1</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="first_widget_is_created_message">First Widget is created.</string>
+    <string name="last_widget_is_disabled_message">Last Widget is disabled.</string>
+    <string name="onupdate_message">onUpdate was called.</string>
+    <string name="cheese">Cheese</string>
+    <string name="meat">Meat</string>
+</resources>

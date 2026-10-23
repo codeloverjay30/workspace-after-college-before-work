@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ex06_1</string>
+    <string name="bmi01">BMI</string>
+    <string name="bmi02">BMI Result</string>
+    <string name="back_button">Back</string>
+    <string name="height">Height</string>
+    <string name="submit_button">Submit</string>
+    <string name="weight">Weight</string>
+    <string name="result_formatted">Height: %s%nWeight: %s%nBMI value: %.2f%n%s</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal_weight">Normal weight</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese">Obese</string>
+    <string name="height_weight_blank">Height or weight is blank!</string>
+</resources>

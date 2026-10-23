@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BookshopDemo_Android</string>
+    <string name="books">Books</string>
+    <string name="uid">User ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="clear">Clear</string>
+    <string name="book_name">Book name</string>
+    <string name="new_user">New User</string>
+    <string name="register">Register</string>
+    <string name="back">Back</string>
+    <string name="book_detail">Book Detail</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "987814132400",
+    "project_id": "ice-cream-store-30",
+    "storage_bucket": "ice-cream-store-30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987814132400:android:a47a23abd3bea7774e1975",
+        "android_client_info": {
+          "package_name": "com.example.google_maps_in_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwO9gQcQ9UKckTJcBOnGesiI5kVtAPZ3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

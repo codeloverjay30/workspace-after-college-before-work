@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ComposableNavigationDemo</string>
+    <string name="welcome_message">Welcome to %1$s</string>
+    <string name="sexy_store">sexy store</string>
+    <string name="main_frame">main frame</string>
+    <string name="jump_to">jump to %1$s</string>
+    <string name="profile_frame">profile frame</string>
+</resources>

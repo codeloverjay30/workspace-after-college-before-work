@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exer3_01</string>
+    <string name="parse_error_message">Error!!! Can not parse one of two numbers from inputs.</string>
+    <string name="zero_division_error_message">Error!!! Can not divide zero.</string>
+</resources>

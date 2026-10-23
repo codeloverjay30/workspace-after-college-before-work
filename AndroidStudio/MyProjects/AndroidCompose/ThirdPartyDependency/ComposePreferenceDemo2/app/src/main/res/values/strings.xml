@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ComposePreferenceDemo2</string>
+    <string name="connections_title">Connections</string>
+    <string name="wifi_toggle_button_key">wifi</string>
+    <string name="wifi_title">Wifi</string>
+    <string name="connections_topappbar_title">Connections</string>
+    <string name="main_frame">Main Frame</string>
+    <string name="main_frame_topappbar_title">Main Frame</string>
+    <string name="volume_topappbar_title">Volume</string>
+    <string name="connections_setting_page_key">connection_setting_page</string>
+    <string name="sounds_and_vibration_topappbar_title">Sounds and vibration</string>
+    <string name="call_vibration_topappbar_title">Call vibration</string>
+    <string name="silent_vibration">Silent</string>
+    <string name="short_vibration">Short</string>
+    <string name="meduim_vibration">Medium</string>
+</resources>

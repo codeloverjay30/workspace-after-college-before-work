@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LocalTextToolbarDemo1</string>
+    <string name="text1">text1</string>
+    <string name="should_show_toolbar_message">"Should show tool bar "</string>
+</resources>

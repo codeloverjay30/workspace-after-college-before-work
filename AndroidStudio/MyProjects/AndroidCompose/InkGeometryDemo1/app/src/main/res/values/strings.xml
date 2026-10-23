@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InkGeometryDemo1</string>
+    <string name="onstrokesfinished_called">onStrokesFinished was called.</string>
+    <string name="erase_strokes">Erase strokes</string>
+    <string name="erase_strokes_button_clicked">Erase strokes button was clicked.</string>
+    <string name="reach_max_strokes">Reach max %d stroke(s)</string>
+</resources>

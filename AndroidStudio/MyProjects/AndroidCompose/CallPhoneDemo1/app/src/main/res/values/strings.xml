@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CallPhoneDemo1</string>
+    <string name="phone_number_label">Enter your phone number</string>
+    <string name="call_phone">Call phone</string>
+    <string name="request_permission">Request permission</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="permission_granted">$1%s Granted</string>
+    <string name="request_permission_text">$1%s permission required for this feature to be available. Please grant the permission!</string>
+    <string name="open_settings_text">Or you can go to the permissions page to grant $1%s permission!</string>
+</resources>

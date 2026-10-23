@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BooksCRUDDemo</string>
+    <string name="book_list">Books</string>
+    <string name="book_add">Add a Book</string>
+    <string name="book_edit">Edit a Book</string>
+    <string name="back_button">Back</string>
+    <string name="add_button">Add</string>
+    <string name="cancel_button">Cancel</string>
+    <string name="isbn">ISBN</string>
+    <string name="book_name">Book name</string>
+    <string name="book_price">Price</string>
+    <string name="update_button">Update</string>
+    <string name="deleted_format">%s deleted</string>
+    <string name="added_format">%s added</string>
+    <string name="updated_format">%s updated</string>
+</resources>

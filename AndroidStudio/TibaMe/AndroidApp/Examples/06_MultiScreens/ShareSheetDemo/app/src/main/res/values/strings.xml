@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ShareSheetDemo</string>
+    <string name="share">Share</string>
+    <string name="url">URL (https://www.google.com)</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exer6_03</string>
+    <string name="login_screen">Login Screen</string>
+    <string name="device_screen">Device Screen</string>
+    <string name="user_id_label">User ID</string>
+    <string name="password_label">Password</string>
+    <string name="login_button">Login</string>
+    <string name="computers">Computers</string>
+    <string name="phones">Phones</string>
+</resources>

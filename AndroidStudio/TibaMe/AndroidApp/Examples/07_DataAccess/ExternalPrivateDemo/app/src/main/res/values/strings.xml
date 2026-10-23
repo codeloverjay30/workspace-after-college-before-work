@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExternalPrivateDemo</string>
+    <string name="uid">User ID</string>
+    <string name="password">Password</string>
+    <string name="save">Save</string>
+    <string name="load">Load</string>
+    <string name="clear">Clear</string>
+    <string name="uid_password_loaded">User ID and password loaded</string>
+    <string name="uid_password_saved">User ID and password saved</string>
+    <string name="uid_password_load_failed">User ID and password loading failed</string>
+    <string name="uid_password_save_failed">User ID and password saving failed</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GeocodeDemo</string>
+    <string name="geocoder">Geocoder</string>
+    <string name="location_name_Address">Location name or address</string>
+</resources>

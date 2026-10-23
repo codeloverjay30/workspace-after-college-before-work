@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GraphicsDemo</string>
+    <string name="strLeft">Left</string>
+    <string name="strRight">Right</string>
+</resources>
